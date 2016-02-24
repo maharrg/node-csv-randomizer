@@ -1,0 +1,17 @@
+{
+  "name": "employee-picker",
+  "version": "1.0.0",
+  "description": "Picks random employee from CSV file that hasn't been picked before and saves the CSV back",
+  "main": "main.js",
+  "dependencies": {
+    "csv": "^0.4.6",
+    "csv-parse": "^1.0.2",
+    "csv-write-stream": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brahm Carlen",
+  "license": "ISC"
+}
